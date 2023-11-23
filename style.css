@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+hr{
+    padding-top: 5px;
+}
+li{
+    margin-left: 25px;
+}
+ul{
+   margin-left: 60%;
+   font-size: 20px;
+   
+
+}
+h1{
+    margin-left: 25px;
+    font-size: 30px;
+}
+nav{
+    background-color: black;
+    color: aliceblue; 
+    padding-top: 20PX;
+}
+#login{
+    width: 120px;
+    height: 40px;
+    background-color:transparent;
+    border: 2px solid white;
+    cursor: pointer;
+    outline: none;
+    font-size: 25px;
+    border-radius: 6px;
+    margin-left: 20px;
+    border: solid;
+
+}
+#login:hover{
+    background-color: aliceblue;
+    color: black;
+}
+ul,li,h1{
+    display:inline;
+}
+.box{
+   display: inline-block;
+    border-color: black;
+    border-width: 2x;
+    border-style: solid;
+    width: 220px;
+}
+.recipe{
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 120px;
+
+}
+button{
+    font-size: 20px;
+    background-color: black;
+    color: aliceblue;
+}
+.contact{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 30px;
+}
+.one{
+    width: 400px;
+   font-size: 15px;
+   background-color: yellow;
+   color:black;
+}
+label{
+    text-align: center;
+}
